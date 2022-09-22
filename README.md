@@ -19,7 +19,7 @@ benjamin.berkrouber@gmail.com
 
 ## Liens des consignes : 
 
-http://google.com 
+[http://google.com ](https://github.com/SAEC2G17/technicolor/blob/main/Cours_Lato.pdf)
 
 
 
