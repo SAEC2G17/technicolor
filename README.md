@@ -1,4 +1,4 @@
-__Bienvenue sur le site de présentation de TechniColor 
+# Bienvenue sur le site de présentation de TechniColor 
 
 
 ## Participant : 
@@ -20,7 +20,6 @@ http://google.com
 
 
 ## Langages utilisés ?
-
-- html
-- css 
-- 
+- HTML5
+- CSS3
+- Java,Script
