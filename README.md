@@ -1,7 +1,7 @@
-Bienvenue sur le site de présentation de TechniColor 
+__Bienvenue sur le site de présentation de TechniColor 
 
 
-Participant : 
+## Participant : 
 - Cécile Kuzliack
 - Louis Wittling
 - Semih Taskin
