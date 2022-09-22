@@ -8,12 +8,11 @@ Nous créons un site de présentation de l'entreprise TechniColor en suivant le 
 on était données dans le cadre de notre SAE.05.06
 
 ## Participant : 
-- Benjamin Berkrouber Référent : 
-benjamin.berkrouber@gmail.com
-- Cécile Kuzliack
-- Louis Wittling
-- Semih Taskin
-- Fyleas Quaile
+Etudiant 1 (référent du groupe) :  [BERKROUBER Benjmain](mailto:login@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
+Etudiant 2 : [Kuzniack Cécile ](mailto:cecile.kuznack@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
+Etudiant 3 : [Quaile Fyléas ](fyleas.quaile@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
+Etudiant 4 : [Wittling Louis] (mailto:louis.wittling@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
+Etudiant 5 : [Taskin Semih ](mailto:semih.taskin@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 
 
 
