@@ -1,0 +1,68 @@
+body
+{
+    background-color: black;
+}
+
+/* CSS Partie PDG */
+
+main section div.bio
+{
+    background-color: rgb(27, 16, 81);
+    width: 75%;
+    height: 600px;
+    margin: auto;
+
+    display: flex;
+    justify-content: center;;
+    align-items: center;
+}
+
+main section div.bio div.pdpPDG
+{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    margin-left: 100px;
+}
+
+main section div.bio div.pdpPDG img
+{
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+}
+
+main section div.bio div.InfoPDG
+{
+    width: 60%;
+    margin: 10px;
+    color: white;
+}
+
+main section div.bio div.InfoPDG h1
+{
+    font-size: 80px;
+    padding: 0px;
+    margin: 0px;
+}
+
+main section div.bio div.InfoPDG h2
+{
+    font-size: 20px;
+    margin-left: 25px;
+    color:rgb(79, 57, 57)
+}
+
+main section div.bio div.InfoPDG div.info
+{
+    border-left: white solid 1px;
+    margin: 25px;
+}
+
+main section div.bio div.InfoPDG div.info p
+{
+    margin-top: 10px;
+    margin-left: 25px;
+    text-align: justify;
+}
+
