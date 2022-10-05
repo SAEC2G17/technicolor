@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr">
 <head>
-  <link rel="stylesheet" href="app/css/header.css">
+  <link rel="stylesheet" href="app/css/header_img.css">
   <link rel="stylesheet" href="app/css/style_partenaires.css">
   <link rel="stylesheet" href="app/css/footer.css">
   <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
@@ -20,86 +20,79 @@
 </head>
 <body>
   
-  <header>
-      <div class="boxvideo">
-          <nav>
-              <div class="box-header">
-                  <div class="img">
+    <header>
+        <div class="boxvideo">
+            <nav>
+                <div class="box-header">
+                    <div class="img">
                       <a href="#"><img src="data/img/logo.png"></a>
-                  </div>
-                  <div class="nav">
-                      <a href="index.html">Home</a>
-                      <a href="prix.html">Prix</a>
-                      <a href="projet.html">Projet</a>
-                      <a href="partenaires.html" id="focus-page">Partenaire</a>
-                      <a href="services.html">Services</a>
-                  </div>
-              </div>
-          </nav>
-          <a href="#bio">
-              <div class="mousey">
-                <div class="scroller"></div>
-              </div>
-          </a>
-      </div>
+                    </div>
+                    <div class="nav">
+                        <a href="index.html">Home</a>
+                        <a href="prix.html">Prix</a>
+                        <a href="projet.html">Projet</a>
+                        <a href="partenaires.html" id="focus-page">Partenaire</a>
+                        <a href="services.html">Services</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
     </header>
   
-  <br>
+    <main>
+
+        <br>
+            
+        <div class="container container-flex flex-wrap justify-content-space-evenly">
+            <div>
+            <button type="submit"><h1>Organisation actuelle</h1></button>
+            </div>
+            <div>
+            <button><h1>Partenaires sociaux</h1></button>
+            </div>
+        </div>
+        
+        
+        <hr>
+            
+        <div class="slider-container">
+            <div class="menu">
+                <label for="slide-dot-1"></label>
+                <label for="slide-dot-2"></label>
+                <label for="slide-dot-3"></label>
+            </div>
+
+            <div class="menu">
+                <input class="slide-input" id="slide-dot-1" type="radio" name="slides" checked>
+                <img class="slide-img" src="https://www.codeur.com/tuto/wp-content/uploads/2021/12/slide1.jpg">
+
+                <input class="slide-input" id="slide-dot-2" type="radio" name="slides">
+                <img class="slide-img" src="https://www.codeur.com/tuto/wp-content/uploads/2021/12/slide2.jpg">
+
+                <input class="slide-input" id="slide-dot-3" type="radio" name="slides">
+                <img class="slide-img" src="https://www.codeur.com/tuto/wp-content/uploads/2021/12/slide3.jpg">
+            </div>
+        </div>
+
+        <hr>
+        <br>
+        <div class="container container-flex flex-wrap-wrap align-content-space-evenly justify-content-space-evenly" style="height: 500px">
+            <div class="item">
+            <h2 id="005">CFDT</h2>
+            </div>
+            <div class="item">
+            <h2 id="006">CFE-CGC</h2>
+            </div>
+            <div class="item">
+            <h2 id="007">SUD Industrie</h2>
+            </div>
+            <div class="item">
+            <h2 id="008">UNSA</h2>
+            </div>
+        </div>
+    </main>
     
-  <div class="container container-flex flex-wrap justify-content-space-evenly">
-    <div>
-      <button type="submit"><h1>Organisation actuelle</h1></button>
-    </div>
-    <div>
-      <button><h1>Partenaires sociaux</h1></button>
-    </div>
-  </div>
-  
-  
-<hr>
-    
-  <div class="slider-container">
-      <div class="menu">
-          <label for="slide-dot-1"></label>
-          <label for="slide-dot-2"></label>
-          <label for="slide-dot-3"></label>
-      </div>
-
-      <div class="menu">
-        <input class="slide-input" id="slide-dot-1" type="radio" name="slides" checked>
-        <img class="slide-img" src="https://www.codeur.com/tuto/wp-content/uploads/2021/12/slide1.jpg">
-
-        <input class="slide-input" id="slide-dot-2" type="radio" name="slides">
-        <img class="slide-img" src="https://www.codeur.com/tuto/wp-content/uploads/2021/12/slide2.jpg">
-
-        <input class="slide-input" id="slide-dot-3" type="radio" name="slides">
-        <img class="slide-img" src="https://www.codeur.com/tuto/wp-content/uploads/2021/12/slide3.jpg">
-      </div>
-  </div>
-  
-
-
-
-    
-
-  <hr>
-  <br>
-  <div class="container container-flex flex-wrap-wrap align-content-space-evenly justify-content-space-evenly" style="height: 500px">
-    <div class="item">
-      <h2 id="005">CFDT</h2>
-    </div>
-    <div class="item">
-      <h2 id="006">CFE-CGC</h2>
-    </div>
-    <div class="item">
-      <h2 id="007">SUD Industrie</h2>
-    </div>
-    <div class="item">
-      <h2 id="008">UNSA</h2>
-    </div>
-  </div>
-    
-  <footer class="footer">
+    <footer class="footer">
     <div class="container">
         <div class="row">
             <div class="footer-col">
@@ -139,7 +132,7 @@
             </div>
         </div>
     </div>	
-</footer>
+    </footer>
 
 </body>
 </html>
