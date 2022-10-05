@@ -1,0 +1,191 @@
+*
+{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  background: linear-gradient(to right,#ff6666,#ccffff);
+}
+
+
+div.Titre{
+  color: Gold;
+  text-align: center;
+}
+
+
+div.P_Gauche{
+  color: goldenrod;
+  margin-bottom: 50px;
+  width: 80%;
+  height: 400px;
+  background-color: #ff3333;
+  border-radius: 0px 150px 30px 0px;
+}
+
+div.P_Droite{
+  color: gold;
+  text-align: right;
+  position: relative;
+  right: 0px;
+  left: 20%;
+  margin-bottom: 50px;
+  width: 80%;
+  height: 400px;
+  background-color: #000080;
+  border-radius: 150px 0px 0px 30px;
+}
+
+
+div.G_shots_awards{
+  margin: 1%;
+  float: left;
+  width: 38%;
+  height: 96%;
+  background-color:yellow;
+}
+img.logo_shots{
+  width: 100%;
+  height: auto;
+  margin-bottom: 0;
+  margin-top: 30%;
+}
+
+div.D_shots_awards{
+  border-radius: 0px 150px 30px 0px;
+  margin: 1%;
+  float: right;
+  width: 58%;
+  height: 96%;
+  background-color:blue;
+}
+
+div.D_british_arrows{
+  margin: 1%;
+  float: right;
+  width: 38%;
+  height: 96%;
+  background-color:yellow;
+}
+
+img.logo_british{
+  width: 100%;
+  height: auto;
+  margin-bottom: 0;
+  margin-top: 30%;
+}
+
+div.G_british_arrows{
+  border-radius: 150px 0px 0px 30px;
+  margin: 1%;
+  float: left;
+  width: 58%;
+  height: 96%;
+  background-color:blue;
+}
+
+div.G_clio_awards{
+  margin: 1%;
+  float: left;
+  width: 38%;
+  height: 96%;
+  background-color:yellow;
+}
+img.logo_clio{
+  width: 100%;
+  height: auto;
+  margin-bottom: 0;
+  margin-top: 30%;
+}
+
+div.D_clio_awards{
+  border-radius: 0px 150px 30px 0px;
+  margin: 1%;
+  float: right;
+  width: 58%;
+  height: 96%;
+  background-color:blue;
+}
+
+img.spider{
+  width: 95%;
+  height: auto;
+  position: relative;
+  right: 5%;
+  left:0;
+  margin-bottom: 0;
+  margin-top: 15%;
+}
+
+div.D_detad_awards{
+  margin: 1%;
+  float: right;
+  width: 38%;
+  height: 96%;
+  background-color:yellow;
+}
+img.logo_detad{
+  width: 100%;
+  height: auto;
+  margin-bottom: 0;
+  margin-top: 30%;
+}
+
+div.G_detad_awards{
+  border-radius: 150px 0px 0px 30px;
+  margin: 1%;
+  float: left;
+  width: 58%;
+  height: 96%;
+  background-color:blue;
+}
+img.sumo{
+  width: 95%;
+  height: auto;
+  position: relative;
+  right: 0;
+  margin-bottom: 0;
+  margin-top: 15%;
+}
+
+div.G_cannes_lions{
+  margin: 1%;
+  float: left;
+  width: 38%;
+  height: 96%;
+  background-color:yellow;
+}
+div.D_cannes_lions{
+  border-radius: 0px 150px 30px 0px;
+  margin: 1%;
+  float: right;
+  width: 58%;
+  height: 96%;
+  background-color:blue;
+}
+
+div.D_aicp{
+  margin: 1%;
+  float: right;
+  width: 38%;
+  height: 96%;
+  background-color:yellow;
+}
+div.G_aicp{
+  border-radius: 150px 0px 0px 30px;
+  margin: 1%;
+  float: left;
+  width: 58%;
+  height: 96%;
+  background-color:blue;
+}
+
+img.reset{
+  width: 95%;
+  height: auto;
+  position: relative;
+  right: 0;
+  margin-bottom: 0;
+  margin-top: 17%;
+}
