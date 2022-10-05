@@ -1,30 +1,57 @@
-<!DOCTYPE html>
-<html lang="fr" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Technicolor</title>
-    <link rel="icon" href="trophee_podium.jpeg">
-    <link rel="stylesheet" href="style_prix.css">
-  </head>
-  <body>
-    <!-- <menu>
+<html>
+    <head>
+        <link rel="stylesheet" href="app/css/header.css">
+        <link rel="stylesheet" href="app/css/style_index.css">
+        <link rel="stylesheet" href="app/css/footer.css">
+        <link rel="stylesheet" href="app/css/style_prix.css">
 
-    </menu> -->
+        <script src="app/js/app.js"></script>
 
-    <!-- <header>
+        <link rel="icon" type="image/png" sizes="16x16" href="data/img/logo.png">
 
-    </header> -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <div class="Titre">
-      <h1>Prix reçus en 2022</h1><br>
-    </div>
+        <title>SAE Technicolor | Home</title>
+    </head>
+    <body>
+        <header>
+            <div class="boxvideo">
+                <nav>
+                    <div class="box-header">
+                        <div class="img">
+                            <a href="#"><img src="data/img/logo.png"></a>
+                        </div>
+                        <div class="nav">
+                            <a href="index.html">Home</a>
+                            <a href="prix.html" id="focus-page">Prix</a>
+                            <a href="#">Projet</a>
+                            <a href="#">Partenaire</a>
+                            <a href="#">Services</a>
+                        </div>
+                    </div>
+                </nav>
+
+                <video id="glass" autoplay muted loop>
+                    <source src="data/back.mp4" type="video/mp4">
+                </video>
+                <a href="#bio">
+                    <div class="mousey">
+                      <div class="scroller"></div>
+                    </div>
+                </a>
+            </div>
+        </header>
 
     <!-- podium -->
     <main>
+      <div class="Titre">
+        <h1>Prix reçus en 2022</h1><br>
+      </div>
       <div class="Shots_Awards P_Gauche" id="1">
         <div class="G_shots_awards">
           <h2>Prix des Shots Awards</h2>
-          <img class="logo_shots" src="shots_awards_horizontale.png" alt="logo shots awards">
+          <img class="logo_shots" src="data/img/prix/shots_awards_horizontale.png" alt="logo shots awards">
         </div>
         <div class="D_shots_awards">
           <h3>le "VFX Company of the Year"</h3>
@@ -35,7 +62,7 @@
       <div class="British_Arrows P_Droite" id="2">
         <div class="D_british_arrows">
           <h2>Prix des British Arrows</h2>
-          <img class="logo_british" src="british_awards.jpg" alt="logo british awards">
+          <img class="logo_british" src="data/img/prix/british_awards.jpg" alt="logo british awards">
           <img src="" alt="">
         </div>
         <div class="G_british_arrows">
@@ -47,14 +74,14 @@
       <div class="Clio_Awards P_Gauche" id="3">
         <div class="G_clio_awards">
           <h2>Prix des Clio Awards</h2>
-          <img class="logo_clio" src="clio_awards.jpg" alt="logo clio awards">
+          <img class="logo_clio" src="data/img/prix/clio_awards.jpg" alt="logo clio awards">
         </div>
         <div class="D_clio_awards">
           <h3>6 prix aux Clio Awards</h3>
           <h4>Dont 2 pour "The Spider and the Window"</h4>
           <h4>(catégories VFX et animations)</h4>
           <a href="https://youtu.be/G7YUK947LI8" target="_blank">
-            <img class="spider" src="spider_window_img.jpg" alt="image d'illustration du projet 'spider and the window'">
+            <img class="spider" src="data/img/prix/spider_window_img.jpg" alt="image d'illustration du projet 'spider and the window'">
           </a>
         </div>
       </div>
@@ -62,14 +89,14 @@
       <div class="DetAD_Awards P_Droite" id="4">
         <div class="D_detad_awards">
           <h2>Prix des D&AD Awards</h2>
-          <img class="logo_detad" src="detad_awards.jpg" alt="logo D&AD awards">
+          <img class="logo_detad" src="data/img/prix/detad_awards.jpg" alt="logo D&AD awards">
         </div>
         <div class="G_detad_awards">
           <h3>9 prix aux D&AD Awards</h3>
           <h4>Dont "Sumo"</h4>
           <h4>(catégories VFX et animations)</h4>
           <a href="https://youtu.be/KjLfqX-gXZ0" target="_blank">
-            <img class="sumo" src="Sumo_trailer_img.png" alt="image d'illustration du projet 'Sumo'">
+            <img class="sumo" src="data/img/prix/Sumo_trailer_img.png" alt="image d'illustration du projet 'Sumo'">
           </a>
         </div>
       </div>
@@ -95,12 +122,53 @@
           <h3>4 prix des AICP</h3>
           <h4>Dont 3 pour le film "The Reset"</h4>
           <a href="https://youtu.be/VaC54igrG5Q" target="_blank">
-            <img class="reset" src="the_reset_img.jpg" alt="image d'illustration du projet 'the reset'">
+            <img class="reset" src="data/img/prix/the_reset_img.jpg" alt="image d'illustration du projet 'the reset'">
           </a>
         </div>
       </div>
     </main>
 
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-col">
+                    <h4>Projet SAE1.5.6	G17</h4>
+                    <ul>
+                        <li><p>Berkrouber Benjamin</p></li>
+                        <li><p>Kuzniack Cécile</p></li>
+                        <li><p>Quaile Fyléas</p></li>
+                        <li><p>Wittling Louis</p></li>
+                        <li><p>Taskin Semih</p></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Site Map</h4>
+                    <ul>
+                        <li><a href="#">Acceuil</a></li>
+                        <li><a href="prix.html">Prix</a></li>
+                        <li><a href="#">Filme & projet</a></li>
+                        <li><a href="#">Partenaire</a></li>
+                        <li><a href="#">Services</a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Me contacter</h4>
+                    <ul>
+                        <li><a href="#"></a></li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4>Rester en contact</h4>
+                    <div class="social_links">
+                        <a href="#"><i class="fab fa-linkedin"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-github"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
 
   </body>
 </html>
