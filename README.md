@@ -15,9 +15,40 @@ on était données dans le cadre de notre SAE.05.06
 - Etudiant 5 : [Taskin Semih ](mailto:semih.taskin@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 
 ## Avancememnt : 
-- Index.html 
-![](https://geps.dev/progress/90)
 
+__HTML__
+- index.html (BERKROUBER Benjamin)
+![](https://geps.dev/progress/90)
+- prix.html (QUAILE Fyléas)
+![](https://geps.dev/progress/10)
+- projet.html (TASKIN Semih)
+![](https://geps.dev/progress/10)
+- partenaire.html (KUZZNIACK Cécile)
+![](https://geps.dev/progress/10)
+- services.html (WITTLING Louis)
+![](https://geps.dev/progress/10)
+
+
+__CSS__ 
+
+- style_header.css (BERKROUBER Benjamin)
+![](https://geps.dev/progress/90)
+- style_footer.css (BERKROUBER Benjamin)
+![](https://geps.dev/progress/100)
+- style_index.css (BERKROUBER Benjamin)
+![](https://geps.dev/progress/90)
+- style_prix.css (QUAILE Fyléas)
+![](https://geps.dev/progress/10)
+- style_projet.css (TASKIN Semih)
+![](https://geps.dev/progress/10)
+- style_partenaires.css (KUZZNIACK Cécile)
+![](https://geps.dev/progress/10)
+- style_services.css (WITTLING Louis)
+![](https://geps.dev/progress/10)
+
+__JS__
+- app.js (BERKROUBER Benjamin)
+![](https://geps.dev/progress/100)
 
 ## Liens des consignes : 
 
