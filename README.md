@@ -24,18 +24,44 @@ __HTML__
     * ✅ Menu de navigation 
     * ❌ Responsive 
   * main ![](https://geps.dev/progress/50)
-    * Profil PDG
-    * Slider Historique
-    * 
+    * ✅ Profil PDG
+    * ❌ Slider Historique
   * footer ![](https://geps.dev/progress/100)
+    * ✅ Personne de la SAE
+    * ✅ Site map
+    * ❌ Catégorie 4
+    * ✅ Liens Entreprise
+
 - prix.html (QUAILE Fyléas)
   * header ![](https://geps.dev/progress/80)
+    * ✅ Logo
+    * ✅ Video 
+    * ✅ Menu de navigation 
+    * ❌ Responsive 
   * main ![](https://geps.dev/progress/50)
+    * ✅ Profil PDG
+    * ❌ Slider Historique
   * footer ![](https://geps.dev/progress/100)
+    * ✅ Personne de la SAE
+    * ✅ Site map
+    * ❌ Catégorie 4
+    * ✅ Liens Entreprise
+
 - projet.html (TASKIN Semih)
   * header ![](https://geps.dev/progress/80)
+    * ✅ Logo
+    * ✅ Video 
+    * ✅ Menu de navigation 
+    * ❌ Responsive 
   * main ![](https://geps.dev/progress/50)
+    * ✅ Profil PDG
+    * ❌ Slider Historique
   * footer ![](https://geps.dev/progress/100)
+    * ✅ Personne de la SAE
+    * ✅ Site map
+    * ❌ Catégorie 4
+    * ✅ Liens Entreprise
+
 - partenaire.html (KUZZNIACK Cécile)
   * header ![](https://geps.dev/progress/80)
   * main ![](https://geps.dev/progress/50)
