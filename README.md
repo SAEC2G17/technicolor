@@ -18,16 +18,32 @@ on était données dans le cadre de notre SAE.05.06
 
 __HTML__
 - index.html (BERKROUBER Benjamin)
-![](https://geps.dev/progress/90)
+  * header ![](https://geps.dev/progress/80)
+    * ✅ Logo
+    * ✅ Video 
+    * ✅ Menu de navigation 
+    * ❌Responsive 
+  * main ![](https://geps.dev/progress/50)
+    * Profil PDG
+    * Slider Historique
+    * 
+  * footer ![](https://geps.dev/progress/100)
 - prix.html (QUAILE Fyléas)
-![](https://geps.dev/progress/10)
+  * header ![](https://geps.dev/progress/80)
+  * main ![](https://geps.dev/progress/50)
+  * footer ![](https://geps.dev/progress/100)
 - projet.html (TASKIN Semih)
-![](https://geps.dev/progress/10)
+  * header ![](https://geps.dev/progress/80)
+  * main ![](https://geps.dev/progress/50)
+  * footer ![](https://geps.dev/progress/100)
 - partenaire.html (KUZZNIACK Cécile)
-![](https://geps.dev/progress/10)
+  * header ![](https://geps.dev/progress/80)
+  * main ![](https://geps.dev/progress/50)
+  * footer ![](https://geps.dev/progress/100)
 - services.html (WITTLING Louis)
-![](https://geps.dev/progress/10)
-
+  * header ![](https://geps.dev/progress/80)
+  * main ![](https://geps.dev/progress/50)
+  * footer ![](https://geps.dev/progress/100)
 
 __CSS__ 
 
