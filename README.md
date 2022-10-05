@@ -14,6 +14,9 @@ on était données dans le cadre de notre SAE.05.06
 - Etudiant 4 : [Wittling Louis](mailto:louis.wittling@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
 - Etudiant 5 : [Taskin Semih ](mailto:semih.taskin@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 
+## Avancememnt : 
+- Index.html 
+![](https://geps.dev/progress/90)
 
 
 ## Liens des consignes : 
@@ -24,6 +27,3 @@ on était données dans le cadre de notre SAE.05.06
 - HTML5
 - CSS3
 - Java,Script
-
-
-![](https://geps.dev/progress/10)
