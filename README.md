@@ -22,7 +22,7 @@ __HTML__
     * ✅ Logo
     * ✅ Video 
     * ✅ Menu de navigation 
-    * ❌Responsive 
+    * ❌ Responsive 
   * main ![](https://geps.dev/progress/50)
     * Profil PDG
     * Slider Historique
