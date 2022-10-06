@@ -1,66 +1,63 @@
 main button{
-    text-align: center;
-    color:aliceblue ;
-    border-radius: 50px 50px 0px 0px;
-    font-family:arial;
-    background-color: rgb(91, 118, 160);
-    box-shadow: 10px 10px 5px rgb(49, 49, 61);
-    box-shadow: -10px -10px -5px rgb(49, 49, 61);
-    padding: 50px 50px 50px 50px
+  text-align: center;
+  color:aliceblue ;
+  border-radius: 30px 30px 0px 0px;
+  font-family:arial;
+  background-color: rgb(91, 118, 160);
+  padding: 10px;
 }
-
+.bouton{
+  border-radius: 50px 50px 50px 50px;
+}
 main h2{
-    color:aliceblue;
-    background-color: rgb(157, 176, 207);
-    border-radius: 50px 50px 50px 50px;
-    margin: 10px 10px 10px 10px;
-    margin-inline:10px 10px 10px 10px ;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding-left: 20px;
-    padding-right: 15px;
-    box-shadow: 7px 7px 5px rgb(49, 49, 61);
+  color:aliceblue;
+  background-color: rgb(157, 176, 207);
+  border-radius: 50px 50px 50px 50px;
+  margin: 10px 10px 10px 10px;
+  margin-inline:10px 10px 10px 10px ;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-left: 20px;
+  padding-right: 15px;
+  box-shadow: 7px 7px 5px rgb(49, 49, 61);
+  text-align: center;
 }
-
-
-main .container{border: 1px solid blue }
-main .container-flex{display: flex;}
-main .item{border: 1px solid red}
-main .item-width{width: 300px}
-main .item-height-small{height: 100px;}
-main .item-height-big{height: 500px;}
-main .img{border: 1px solid green}
-main .img-width{width: 300px}
-main .img-height-small{height: 100px;}
-main .img-height-big{height: 500px;}
-
-main .flex-row{flex-direction: row;}
-main .flex-row-reverse{flex-direction: row-reverse;}
-main .flex-column{flex-direction: column;}
-main .flex-column-reverse{flex-direction: column-reverse;}
-
-main .justify-content-flex-start{justify-content: flex-start;}
-main .justify-content-flex-end{justify-content: flex-end;}
-main .justify-content-center{justify-content: center;}
-main .justify-content-space-between{justify-content: space-between;}
-main .justify-content-space-around{justify-content: space-around;}
-main .justify-content-space-evenly{justify-content: space-evenly;}
-
-main .flex-grow-1{flex-grow: 1}
-main .flex-grow-2{flex-grow: 2}
-
-main img {
-  max-width: 100%;
+main h1, p{
+  text-align: center;
 }
-
 main .slider-container {
-  max-width: 800px;
+  max-width: 90%;
+  min-width: 100%;
   position: relative;
   margin: auto;
-  height: 350px;
+  height: 500px;
   overflow: hidden;
-  border: 3px solid blueviolet;
+  border: 3px solid transparent;
+  background-color: aliceblue;
+  }
+main .menu label {
+  cursor: pointer;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  background: rgb(91, 118, 160);
+  border-radius: 50px;
+  margin: 0 0.2em 1em;
+  border: 1px solid transparent;
+}
+main .item{
+  border: 1px solid pink;
+  width:100%;
+  height: 100%;
+  text-align: center;
 }
 
+
+
+[id^="slide"]:checked + .slide-img {
+  left: 0;
+  z-index: 100;
+  transition: left 0.65s ease-out;
+}
 main .menu {
   position: absolute;
   left: 0;
@@ -68,47 +65,58 @@ main .menu {
   width: 100%;
   bottom: 0;
   text-align: center;
-  border: 1px solid rgb(54, 141, 90);
-
+  border: 1px solid transparent;
 }
-
-main .slider{
-  border: 3px solid rgb(226, 43, 211);
-
-}
-
-main .menu label {
-  cursor: pointer;
-  display: inline-block;
-  width: 10px;
-  height: 10px;
-  background: #ccc;
-  border-radius: 50px;
-  margin: 0 0.2em 1em;
-  border: 1px solid rgb(226, 43, 211);
-
-}
-
 main .menu label:hover,.menu label:focus {
   background: #1c87c9;
 }
+main .logo{
+  width: 100%;
+  height: 100%;
+  border-radius: 100px ;
+  padding: 20px;
+}
 .slide-input{
   opacity: 0;
-  
+} 
+main .container-flex{display: flex;}
+main .justify-content-space-evenly{justify-content: space-evenly;}
+
+
+
+main .container-flex-grow-1{
+  flex-grow: 1em;
+  border:1px solid rgb(96, 82, 156);
 }
+main .container-flex-grow-2{
+  
+  flex-grow: 2em;
+  flex-direction: column;
+  align-content: space-evenly;
+  border:1px solid rgb(96, 82, 156);
+}
+
+
+.slide-img {
+width: 100%;
+height: 300px;
+position: absolute;
+top: 0;
+left: 100%;
+z-index: 10;
+transition: left 0s 0.75s;
+flex-direction: row;
+border: 3px solid transparent;
+}
+
 .slide-img {
   width: 100%;
-  height: 300px;
+  height: 90%;
   position: absolute;
   top: 0;
   left: 100%;
   z-index: 10;
   transition: left 0s 0.75s;
-  flex-direction: row;
-
-}
-[id^="slide"]:checked + .slide-img {
-  left: 0;
-  z-index: 100;
-  transition: left 0.65s ease-out;
+  border: 3px solid transparent;
+  background-color: aliceblue;
 }
