@@ -1,0 +1,177 @@
+body
+{
+    background-color:navy;
+}
+
+h2 {
+    color: beige;
+    text-align: justify;
+    margin: 20px 200px 20px;
+}
+
+        /* Service 1 */
+       
+main section div.serv1 {
+    width: 75%;
+    height: 800px;
+    margin: 20px 240px 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main section div.txt1 {
+    margin: 20px 20px 20px;
+    text-align: justify;
+}
+
+main section div.videoserv1 {
+    border-radius: 0%;
+    width: auto;
+    height: 720px;
+}
+
+main section fieldset.txt1 
+{
+    text-align: left;
+    margin: 20px 20px 20px;
+    float:left;
+    width: 60%;
+    background: cadetblue;
+}
+
+main section h3 {
+    text-align: justify;
+    margin: 10px 10px 10px;
+    color: beige;
+    float: left;
+}
+
+        /* Service 2 */
+
+main section div.serv2 {
+    width: 75%;
+    height: 800px;
+    margin: 20px 240px 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main section div.txt2 {
+    margin: 20px 20px 20px;
+    text-align: justify;
+}
+
+main section div.videoserv2 {
+    border-radius: 0%;
+    width: auto;
+    height: 720px;
+}
+
+main section fieldset.txt2 
+{
+    text-align: left;
+    margin: 20px 20px 20px;
+    float:left;
+    width: 60%;
+    background: cadetblue;
+}
+
+main section h3 {
+    text-align: justify;
+    margin: 10px 10px 10px;
+    color: beige;
+    float: left;
+}
+
+        /* Service 3 */
+
+main section div.serv3 {
+    width: 75%;
+    height: 800px;
+    margin: 20px 240px 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main section div.txt3 {
+    margin: 20px 20px 20px;
+    text-align: justify;
+}
+
+main section div.videoserv3 {
+    border-radius: 0%;
+    width: auto;
+    height: 720px;
+}
+
+main section fieldset.txt3 
+{
+    text-align: left;
+    margin: 20px 20px 20px;
+    float:left;
+    width: 60%;
+    background: cadetblue;
+}
+
+main section h3 {
+    text-align: justify;
+    margin: 10px 10px 10px;
+    color: beige;
+    float: left;
+}
+
+        /* Service 4 */
+main section div.serv4 {
+    width: 75%;
+    height: 800px;
+    margin: 20px 240px 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main section div.txt4 {
+    margin: 20px 20px 20px;
+    text-align: justify;
+}
+
+main section div.videoserv4 {
+    border-radius: 0%;
+    width: auto;
+    height: 720px;
+}
+
+main section fieldset.txt4 
+{
+    text-align: left;
+    margin: 20px 20px 20px;
+    float:left;
+    width: 60%;
+    background: cadetblue;
+}
+
+main section h3 {
+    text-align: justify;
+    margin: 10px 10px 10px;
+    color: beige;
+    float: left;
+}
+
+main section div.bio
+{
+    background-color: rgb(27, 16, 81);
+    width: 75%;
+    height: 600px;
+    margin: auto;
+
+    display: flex;
+    justify-content: center;;
+    align-items: center;
+}
