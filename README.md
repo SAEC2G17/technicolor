@@ -14,6 +14,15 @@ on était données dans le cadre de notre SAE.05.06
 - Etudiant 4 : [Wittling Louis](mailto:louis.wittling@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
 - Etudiant 5 : [Taskin Semih ](mailto:semih.taskin@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 
+## Zoning :
+Les zonings sont disponile dans si dessous : 
+- [Zoning Index ](https://saec2g17.github.io/technicolor/zoning/Zoning_index.pdf)
+- [Zoning Prix ](https://saec2g17.github.io/technicolor/zoning/Zoning_prix.pdf)
+- [Zoning Projet ](https://github.com/SAEC2G17/technicolor/zoning/Zoning_projet.pdf)
+- [Zoning Partenaire ](https://github.com/SAEC2G17/technicolor/zoning/Zoning_partenaire.pdf)
+- [Zoning Service ](https://github.com/SAEC2G17/technicolor/zoning/Zoning_service.pdf)
+
+
 ## Avancememnt : 
 
 __HTML__
