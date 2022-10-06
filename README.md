@@ -55,8 +55,7 @@ __HTML__
     * ✅ Menu de navigation 
     * ❌ Responsive 
   * main ![](https://geps.dev/progress/50)
-    * ✅ Profil PDG
-    * ❌ Slider Historique
+    * 
   * footer ![](https://geps.dev/progress/100)
     * ✅ Personne de la SAE
     * ✅ Site map
@@ -70,8 +69,7 @@ __HTML__
     * ✅ Menu de navigation 
     * ❌ Responsive 
   * main ![](https://geps.dev/progress/50)
-    * ✅ Profil PDG
-    * ❌ Slider Historique
+    * 
   * footer ![](https://geps.dev/progress/100)
     * ✅ Personne de la SAE
     * ✅ Site map
@@ -80,12 +78,31 @@ __HTML__
 
 - partenaire.html (KUZZNIACK Cécile)
   * header ![](https://geps.dev/progress/80)
+    * ✅ Logo
+    * ✅ Video 
+    * ✅ Menu de navigation 
+    * ❌ Responsive 
   * main ![](https://geps.dev/progress/50)
+    * 
   * footer ![](https://geps.dev/progress/100)
-- services.html (WITTLING Louis)
+    * ✅ Personne de la SAE
+    * ✅ Site map
+    * ❌ Catégorie 4
+    * ✅ Liens Entreprise
+  
+  - services.html (WITTLING Louis)
   * header ![](https://geps.dev/progress/80)
+    * ✅ Logo
+    * ✅ Video 
+    * ✅ Menu de navigation 
+    * ❌ Responsive 
   * main ![](https://geps.dev/progress/50)
+    * 
   * footer ![](https://geps.dev/progress/100)
+    * ✅ Personne de la SAE
+    * ✅ Site map
+    * ❌ Catégorie 4
+    * ✅ Liens Entreprise
 
 __CSS__ 
 
