@@ -21,7 +21,11 @@ main h2{
   box-shadow: 7px 7px 5px rgb(49, 49, 61);
   text-align: center;
 }
-main h1, p{
+main h1{
+  text-align: center;
+  
+}
+main p{
   text-align: center;
 }
 main .slider-container {
