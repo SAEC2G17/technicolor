@@ -22,6 +22,8 @@ Les zonings sont disponile dans si dessous :
 - [Zoning Partenaire ](https://github.com/SAEC2G17/technicolor/zoning/Zoning_partenaire.pdf)
 - [Zoning Services ](https://github.com/SAEC2G17/technicolor/zoning/Zoning_service.pdf)
 
+ ![alt text](https://saec2g17.github.io/technicolor/zoning/Zoning_index.pdf) 
+
 
 ## Avancememnt : 
 
