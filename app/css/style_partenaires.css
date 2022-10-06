@@ -20,13 +20,17 @@ main h2{
   padding-right: 15px;
   box-shadow: 7px 7px 5px rgb(49, 49, 61);
   text-align: center;
+  font-size: medium;
 }
 main h1{
   text-align: center;
-  
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: large;
 }
 main p{
   text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: small;
 }
 main .slider-container {
   max-width: 90%;
