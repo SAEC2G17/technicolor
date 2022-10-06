@@ -20,17 +20,21 @@ main h2{
   padding-right: 15px;
   box-shadow: 7px 7px 5px rgb(49, 49, 61);
   text-align: center;
-  font-size: medium;
+  font-size: 2cm;
+  color: white;
 }
 main h1{
   text-align: center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: large;
+  font-size: 2cm;
+  color: white;
+  
 }
 main p{
   text-align: center;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: small;
+  font-size: 1cm;
+  color: white;
 }
 main .slider-container {
   max-width: 90%;
@@ -126,5 +130,5 @@ border: 3px solid transparent;
   z-index: 10;
   transition: left 0s 0.75s;
   border: 3px solid transparent;
-  background-color: aliceblue;
+  background-color: rgb(66, 103, 136);
 }
