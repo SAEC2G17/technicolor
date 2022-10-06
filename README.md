@@ -20,7 +20,7 @@ Les zonings sont disponile dans si dessous :
 - [Zoning Prix ](https://saec2g17.github.io/technicolor/zoning/Zoning_prix.pdf)
 - [Zoning Projet ](https://github.com/SAEC2G17/technicolor/zoning/Zoning_projet.pdf)
 - [Zoning Partenaire ](https://github.com/SAEC2G17/technicolor/zoning/Zoning_partenaire.pdf)
-- [Zoning Service ](https://github.com/SAEC2G17/technicolor/zoning/Zoning_service.pdf)
+- [Zoning Services ](https://github.com/SAEC2G17/technicolor/zoning/Zoning_service.pdf)
 
 
 ## Avancememnt : 
