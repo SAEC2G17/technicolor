@@ -18,9 +18,9 @@ on était données dans le cadre de notre SAE.05.06
 Les zonings sont disponile dans si dessous : 
 - [Zoning Index ](https://saec2g17.github.io/technicolor/zoning/Zoning_index.pdf)
 - [Zoning Prix ](https://saec2g17.github.io/technicolor/zoning/Zoning_prix.pdf)
-- [Zoning Projet ](https://github.com/SAEC2G17/technicolor/zoning/Zoning_projet.pdf)
-- [Zoning Partenaire ](https://github.com/SAEC2G17/technicolor/zoning/Zoning_partenaire.pdf)
-- [Zoning Services ](https://github.com/SAEC2G17/technicolor/zoning/Zoning_service.pdf)
+- [Zoning Projet ](https://saec2g17.github.io/technicolor/zoning/Zoning_projet.pdf)
+- [Zoning Partenaire ](https://saec2g17.github.io/technicolor/zoning/Zoning_partenaire.pdf)
+- [Zoning Services ](https://saec2g17.github.io/technicolor/zoning/Zoning_services.pdf)
 
  ![alt text](https://saec2g17.github.io/technicolor/zoning/Zoning_index.pdf) 
 
