@@ -68,6 +68,7 @@ section.slider h1
   background-color: #222;
   padding: 2px 16px;
   color: white;
+  font-size: 25px;
 }
 
 .row:after {
@@ -86,6 +87,10 @@ section.slider .row
 .column {
   float: left;
   width: 16.66%;  
+  height: 50px;
+  line-height: 50px;
+  text-align: center;
+  border-bottom: #F7CA47 solid 1px;
 }
 
 /* Add a transparency effect for thumnbail images */
@@ -96,4 +101,6 @@ section.slider .row
 .active,
 .demo:hover {
   opacity: 1;
+  background-color: #F7CA47;
+  color: white
 }
