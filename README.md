@@ -29,7 +29,8 @@ Les zonings sont disponile dans si dessous :
 - ❌[Zoning Services ](https://saec2g17.github.io/technicolor/zoning/Zoning_services.pdf)
 
 ## Ecran prototype du site : 
-- Ecran de prototype : 
+- ✅[Prototype Index ](https://saec2g17.github.io/technicolor/zoning/Zoning_index.pdf)
+
 
 ## Avancememnt : 
 
