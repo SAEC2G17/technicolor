@@ -19,15 +19,14 @@ on était données dans le cadre de notre SAE.05.06
 **Terminer**
 
 Les zonings sont disponile dans si dessous : 
-- ✅![Zoning Index ](https://saec2g17.github.io/technicolor/zoning/Zoning_index.pdf)
-![](data/img/logo.png)
+- ✅![Zoning Index ](zoning/Zoning_index.png)
 
 **En cours**
 
-- ✅![Zoning Prix ](https://saec2g17.github.io/technicolor/zoning/Zoning_prix.pdf)
-- ✅![Zoning Projet ](https://saec2g17.github.io/technicolor/zoning/Zoning_projet.pdf)
-- ✅![Zoning Partenaire ](https://saec2g17.github.io/technicolor/zoning/Zoning_partenaire.pdf)
-- ✅![Zoning Services ](https://saec2g17.github.io/technicolor/zoning/Zoning_services.pdf)
+- ✅![Zoning Prix ](zoning/Zoning_prix.png)
+- ✅![Zoning Projet ](zoning/Zoning_projet.png)
+- ✅![Zoning Partenaire ](zoning/Zoning_partenaires.png)
+- ✅![Zoning Services ](zoning/Zoning_services.png)
 
 ## Ecran prototype du site : 
 - ✅![Prototype Index ](https://saec2g17.github.io/technicolor/zoning/Zoning_index.pdf)
