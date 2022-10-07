@@ -2,26 +2,26 @@
 
 Bienvenue sur le projet de SAE.05.06 du groupe G17 dans le projet C2
 
-## Quelle est notre projet :
+## Quel est notre projet :
 
-Nous créons un site de présentation de l'entreprise TechniColor en suivant le modèle et les consigne qui nous 
-on était données dans le cadre de notre SAE.05.06
+Nous crééons un site de présentation de l'entreprise TechniColor en suivant le modèle et les consignes qui nous 
+on été données dans le cadre de notre SAE.05.06
 
-## Participant : 
+## Participants : 
 - Etudiant 1 (référent du groupe) :  [BERKROUBER Benjmain](mailto:login@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
 - Etudiant 2 : [Kuzniack Cécile ](mailto:cecile.kuznack@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
 - Etudiant 3 : [Quaile Fyléas ](mailto:fyleas.quaile@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
 - Etudiant 4 : [Wittling Louis](mailto:louis.wittling@edu.univ-fcomte.fr?subject=SAE_1_05_06) 
 - Etudiant 5 : [Taskin Semih ](mailto:semih.taskin@edu.univ-fcomte.fr?subject=SAE_1_05_06)
 
-## Zoning :
+## Zonings :
 
-**Terminer**
+**Terminé**
 
-Les zonings sont disponile dans si dessous : 
+Les zonings sont disponible si dessous : 
 - ✅![Zoning Index ]
 
-**Terminer**
+**Terminé**
 
 - ✅![Zoning Prix ](zoning/Zoning_prix.png)
 - ✅![Zoning Projet ](zoning/Zoning_projet.png)
