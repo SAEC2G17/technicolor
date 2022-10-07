@@ -20,6 +20,7 @@ on était données dans le cadre de notre SAE.05.06
 
 Les zonings sont disponile dans si dessous : 
 - ✅![Zoning Index ](https://saec2g17.github.io/technicolor/zoning/Zoning_index.pdf)
+![](data/img/logo.png)
 
 **En cours**
 
