@@ -19,7 +19,7 @@ on été données dans le cadre de notre SAE.05.06
 **Terminé**
 
 Les zonings sont disponible si dessous : 
-- ✅![Zoning Index ]
+- ✅![Zoning Index ](zoning/Zoning_index.png)
 
 **Terminé**
 
@@ -29,7 +29,7 @@ Les zonings sont disponible si dessous :
 - ✅![Zoning Services ](zoning/Zoning_services.png)
 
 ## Ecran prototype du site : 
-- ✅![Prototype Index ](zoning/Zoning_index.png)
+- ✅![Prototype Index ](zoning/Capture_index.png)
 
 
 ## Avancememnt : 
