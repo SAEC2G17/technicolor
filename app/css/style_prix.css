@@ -6,7 +6,9 @@
 
 body{
   /* background: linear-gradient(to right,#ff6666,#ccffff); */
-  background-color: thistle;
+  /* background-color: thistle; */
+  background-image:url("data/img/prix/background_flou.jpeg");
+  background-attachment: scroll;
 }
 
 div.haut_page{
@@ -31,9 +33,9 @@ div.Titre{
 
 div.P_Gauche{
   color: gold;
-  margin-bottom: 50px;
+  margin-bottom: 150px;
   width: 80%;
-  height: 400px;
+  height: 600px;
   background-color: #ff3333;
   border-radius: 0px 150px 30px 0px;
 }
@@ -44,9 +46,9 @@ div.P_Droite{
   position: relative;
   right: 0px;
   left: 20%;
-  margin-bottom: 50px;
+  margin-bottom: 150px;
   width: 80%;
-  height: 400px;
+  height: 600px;
   background-color: #000080;
   border-radius: 150px 0px 0px 30px;
 }
@@ -79,6 +81,7 @@ div.D_british_arrows{
   float: right;
   width: 38%;
   height: 96%;
+  border-left: thick solid darkslateblue;
 }
 
 img.logo_british{
@@ -105,10 +108,10 @@ div.G_clio_awards{
   border-right: thick solid darkred;
 }
 img.logo_clio{
-  width: 95%;
+  width: 500px;
   height: auto;
-  margin-bottom: 0;
-  margin-top: 30%;
+  margin-bottom: 50%;
+  margin-top: 5%;
 }
 
 div.D_clio_awards{
@@ -134,6 +137,7 @@ div.D_detad_awards{
   float: right;
   width: 38%;
   height: 96%;
+  border-left: thick solid darkslateblue;
 }
 img.logo_detad{
   width: 100%;
@@ -178,6 +182,7 @@ div.D_aicp{
   float: right;
   width: 38%;
   height: 96%;
+  border-left: thick solid darkslateblue;
 }
 div.G_aicp{
   border-radius: 150px 0px 0px 30px;
@@ -232,4 +237,16 @@ img.reset{
     margin-left: 5%;
   }
   /* images */
+
+
+  div.P_Gauche
+  {
+    margin-bottom: 50px;
+    height: 400px;
+  }
+  div.P_Droite
+  {
+    margin-bottom: 50px;
+    height: 400px;
+  }
 }
