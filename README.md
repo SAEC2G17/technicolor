@@ -19,9 +19,9 @@ on était données dans le cadre de notre SAE.05.06
 **Terminer**
 
 Les zonings sont disponile dans si dessous : 
-- ✅![Zoning Index ](zoning/Zoning_index.png)
+- ✅![Zoning Index ]
 
-**En cours**
+**Terminer**
 
 - ✅![Zoning Prix ](zoning/Zoning_prix.png)
 - ✅![Zoning Projet ](zoning/Zoning_projet.png)
@@ -29,7 +29,7 @@ Les zonings sont disponile dans si dessous :
 - ✅![Zoning Services ](zoning/Zoning_services.png)
 
 ## Ecran prototype du site : 
-- ✅![Prototype Index ](https://saec2g17.github.io/technicolor/zoning/Zoning_index.pdf)
+- ✅![Prototype Index ](zoning/Zoning_index.png)
 
 
 ## Avancememnt : 
