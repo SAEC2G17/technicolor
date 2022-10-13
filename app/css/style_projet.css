@@ -29,7 +29,7 @@ h2{
 
 color: beige;
 text-align: right;
-margin-right: 10%;
+margin-right: 320px;
 
 
 }
@@ -44,12 +44,19 @@ video{
 
    
     float: left;
-    margin: 0px 400px 0px 0px;
+    margin-left: 50px;
 }
 
 p{
     text-align: right;
+    color: aliceblue;
+    text-align: center;
     
 
 
+}
+
+.video1{
+
+    margin-right: 1px;
 }
