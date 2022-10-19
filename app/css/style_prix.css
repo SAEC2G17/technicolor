@@ -33,6 +33,13 @@ div.Titre{
   text-align: center;
 }
 
+.click{
+  width: 500px;
+}
+.click hover{
+
+}
+
 
 div.P_Gauche{
   color: gold;
@@ -79,6 +86,11 @@ div.D_shots_awards{
   height: 96%;
 }
 
+.prix_vfx{
+  width: 750px;
+  margin-top: 5%;
+}
+
 div.D_british_arrows{
   margin: 1%;
   float: right;
@@ -88,10 +100,10 @@ div.D_british_arrows{
 }
 
 img.logo_british{
-  width: 95%;
+  width: 85%;
   height: auto;
-  margin-top: 100px;
-  margin-left: 5%;
+  margin-top: 3%;
+  margin-right: 5%;
 }
 
 div.G_british_arrows{
@@ -100,6 +112,13 @@ div.G_british_arrows{
   float: left;
   width: 58%;
   height: 96%;
+}
+
+.prix_british{
+  transform: rotate(90deg);
+  width: 450px;
+  margin-right: 15%;
+  margin-top: -6%;
 }
 
 div.G_clio_awards{
@@ -168,6 +187,12 @@ div.G_cannes_lions{
   height: 96%;
   border-right: thick solid darkred;
 }
+
+.prix_lions{
+  width: 850px;
+  margin-top: 6%;
+}
+
 div.D_cannes_lions{
   border-radius: 0px 150px 30px 0px;
   margin: 1%;
@@ -211,7 +236,12 @@ img.reset{
   margin-top: 50px;
 }
 
-
+p#perso{
+  color: #F7CA47;
+}
+p#perso:hover{
+  color: yellow;
+}
 
 
 
@@ -228,16 +258,16 @@ img.reset{
   }
   img.logo_british
   {
-    width: 275px;
+    width: 250px;
     height: auto;
-    margin-top: 30%;
-    margin-left: 5%;
+    margin-top: 5%;
+    margin-right: 5%;
   }
   img.logo_clio
   {
     width: 275px;
     height: auto;
-    margin-top: 30%;
+    margin-top: 25%;
   }
   img.logo_detad
   {
@@ -261,6 +291,19 @@ img.reset{
     margin-left: 5%;
   }
   /* images */
+
+  .prix_vfx{
+    width: 400px;
+    margin-top: 15%;
+  }
+
+  .prix_british{
+    transform: rotate(90deg);
+    width: 275px;
+    margin-right: 15%;
+    margin-top: -4%;
+  }
+
   img.spider
   {
     width: 400px;
@@ -271,6 +314,12 @@ img.reset{
     width: 400px;
     height: auto;
   }
+
+  .prix_lions{
+    width: 425px;
+    margin-top: 13%;
+  }
+
   img.reset
   {
     width: 400px;
