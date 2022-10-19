@@ -1,13 +1,26 @@
-main button{
+main button, .demo{
   text-align: center;
   color:aliceblue ;
   border-radius: 30px 30px 0px 0px;
-  font-family:arial;
+  font-family:'Poppins';
+  font-size: 36px;
   background-color: rgb(91, 118, 160);
-  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-color: transparent;
 }
 .bouton{
   border-radius: 50px 50px 50px 50px;
+  font-size: 18px;
+  text-align: center;
+  color:aliceblue ;
+  text-decoration: none;
+  font-family:'Poppins';
+  font-size: 36px;
+  background-color: rgb(91, 118, 160);
+  padding-left: 30px;
+  padding-right: 30px;
+  border-color: transparent;
 }
 main h2{
   color:aliceblue;
@@ -15,25 +28,24 @@ main h2{
   border-radius: 50px 50px 50px 50px;
   margin: 10px 10px 10px 10px;
   margin-inline:10px 10px 10px 10px ;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Poppins';
   padding-left: 20px;
   padding-right: 15px;
-  box-shadow: 7px 7px 5px rgb(49, 49, 61);
   text-align: center;
-  font-size: 2cm;
+  font-size: 22px;
   color: white;
 }
 main h1{
   text-align: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 2cm;
+  font-family: 'Poppins';
+  font-size: 36px;
   color: white;
   
 }
 main p{
   text-align: center;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 1cm;
+  font-family: 'Poppins';
+  font-size: 18px;
   color: white;
 }
 main .slider-container {
@@ -57,7 +69,7 @@ main .menu label {
   border: 1px solid transparent;
 }
 main .item{
-  border: 1px solid pink;
+  border: 1px solid transparent;
   width:100%;
   height: 100%;
   text-align: center;
@@ -98,14 +110,14 @@ main .justify-content-space-evenly{justify-content: space-evenly;}
 
 main .container-flex-grow-1{
   flex-grow: 1em;
-  border:1px solid rgb(96, 82, 156);
+  border:1px solid transparent;
 }
 main .container-flex-grow-2{
   
   flex-grow: 2em;
   flex-direction: column;
   align-content: space-evenly;
-  border:1px solid rgb(96, 82, 156);
+  border:1px solid transparent;
 }
 
 
@@ -131,4 +143,9 @@ border: 3px solid transparent;
   transition: left 0s 0.75s;
   border: 3px solid transparent;
   background-color: rgb(66, 103, 136);
+}
+
+main
+{
+  height: 100vh ;
 }
