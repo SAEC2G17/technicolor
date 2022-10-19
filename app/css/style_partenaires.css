@@ -75,7 +75,10 @@ main .item{
   text-align: center;
 }
 
-
+div.column p.demo .active
+{
+  background-color: red;
+}
 
 [id^="slide"]:checked + .slide-img {
   left: 0;
