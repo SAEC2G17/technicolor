@@ -44,122 +44,276 @@
         <br>
             
         <div class="fenetre container-flex flex-wrap justify-content-space-evenly">
-            <div>
-            <button type="submit"><h1>Organisation actuelle</h1></button>
-            </div>
-            <div>
-            <button><h1>Partenaires sociaux</h1></button>
-            </div>
+          <div class="column">
+            <p class="demo cursor" onclick="currentSlide(1)" alt="Cinque Terre">Organisation actuelle</p>
+          </div>
+          <div class="column">
+            <p class="demo cursor" onclick="currentSlide(2)" alt="Cinque Terre">Partenaires sociaux</p>
+          </div>
         </div>
         
+        <hr>
         
-        
-            
-        <div class="slider-container">
-            <div class="menu">
-                <label for="slide-dot-1"></label>
-                <label for="slide-dot-2"></label>
-                <label for="slide-dot-3"></label>
-                <label for="slide-dot-4"></label>
-            </div>
+        <div class="mySlides">   
+          <div class="slider-container">
+              <div class="menu">
+                  <label for="slide-dot-1"></label>
+                  <label for="slide-dot-2"></label>
+                  <label for="slide-dot-3"></label>
+                  <label for="slide-dot-4"></label>
+              </div>
 
-            <input class="slide-input" id="slide-dot-1" type="radio" name="slides" checked>
-                <div class="slide-img">
-                    <div class="contour container-flex flex-wrap" >
-                        <div class="container-flex-grow-1">
-                            <img class="logo" src="https://variety.com/wp-content/uploads/2013/09/technicolor-logo.jpg">
-                        </div>
-                        <div class="container-flex-grow-2">
-                            <div class="texte" style="display: block; justify-content: center;">
-                                <div class="item">
-                                  <h1>Technicolor</h1>
-                                </div>
-                                <div class="item">
-                                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis earum commodi illo ratione beatae quae libero, quo, consectetur dolor molestias repudiandae odit tenetur nam cum error culpa repellendus nesciunt omnis?</p>
-                                </div>
-                                <div class="item">
-                                  <button class="bouton">En savoir plus</button>
-                                </div>
-                            </div>
-                        </div>
-                      </div>
-                        
-                </div>
-
-            <input class="slide-input" id="slide-dot-2" type="radio" name="slides">
-            <div class="slide-img">
-                <div class="contour container-flex flex-wrap" >
-                    <div class="container-flex-grow-1">
-                        <img class="logo" src="https://variety.com/wp-content/uploads/2013/09/technicolor-logo.jpg">
-                    </div>
-                    <div class="container-flex-grow-2">
-                        <div class="texte" style="display: block; justify-content: space-between;">
-                            <div class="item">
-                              <h1>Technicolor</h1>
-                            </div>
-                            <div class="item">
-                              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic error cupiditate recusandae nam aut a voluptatem repellendus minus deleniti culpa eos debitis praesentium, reprehenderit, sunt velit? Ad hic minus soluta?</p>
-                            </div>
-                            <div class="item">
-                              <button class="bouton">En savoir plus</button>
-                            </div>
+              <input class="slide-input" id="slide-dot-1" type="radio" name="slides" checked>
+                  <div class="slide-img">
+                      <div class="contour container-flex flex-wrap" >
+                          <div class="container-flex-grow-1">
+                              <img class="logo" src="../technicolor-main/data/img/partenaires/creative studio.jpg">
                           </div>
-                    </div>
-                   
-              
-                  </div>
-                    
-            </div>
+                          <div class="container-flex-grow-2">
+                              <div class="texte" style="display: block; justify-content: center;">
+                                  <div class="item">
+                                    <h1>Creative Studio</h1>
+                                  </div>
+                                  <div class="item">
+                                    <p>Technicolor Creative Studios regroupe les studios créatifs de Technicolor.
 
-            <input class="slide-input" id="slide-dot-3" type="radio" name="slides">
-            <div class="slide-img">
-                <div class="contour container-flex flex-wrap" >
-                    <div class="container-flex-grow-1">
-                        <img class="logo" src="https://variety.com/wp-content/uploads/2013/09/technicolor-logo.jpg">
-                    </div>
-                    <div class="container-flex-grow-2">
-                        <div class="texte" style="display: block; justify-content: space-between;">
-                            <div class="item">
-                              <h1>Technicolor</h1>
-                            </div>
-                            <div class="item">
-                              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis eligendi quo modi ipsam dolore nisi, soluta ex praesentium sit deserunt cupiditate repudiandae excepturi reiciendis perferendis qui? Saepe hic perspiciatis veniam?</p>
-                            </div>
-                            <div class="item">
-                              <button class="bouton">En savoir plus</button>
-                            </div>
-                          </div>
-                    </div>
-                   
-              
-                  </div>
-                    
-            </div>
-
-            <input class="slide-input" id="slide-dot-4" type="radio" name="slides" checked>
-                <div class="slide-img">
-                    <div class="contour container-flex flex-wrap" >
-                        <div class="container-flex-grow-1">
-                            <img class="logo" src="https://variety.com/wp-content/uploads/2013/09/technicolor-logo.jpg">
-                        </div>
-                        <div class="container-flex-grow-2">
-                            <div class="texte" style="display: block; justify-content: space-between;">
-                                <div class="item">
-                                  <h1>Technicolor</h1>
-                                </div>
-                                <div class="item">
-                                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum tenetur accusantium debitis, deserunt mollitia enim totam necessitatibus perferendis corporis ex officiis atque asperiores vero temporibus recusandae id? Similique, iure dolorum!</p>
-                                </div>
-                                <div class="item">
-                                  <button class="bouton">En savoir plus</button>
-                                </div>
+                                      The Mill est spécialisé dans les effets visuels, l'animation et la création expériences immersives pour les secteurs de la publicité et de la musique.
+                                      Moving Picture Company est spécialisé dans les effets visuels et l'animation pour le cinéma et les séries télévisées.
+                                      Mikros Animation est le studio spécialisé dans les images de synthèse et l'animation pour les dessins animés aux formats long et épisodique.
+                                      Technicolor Games est créateur de contenu et d'expériences immersives pour l'industrie du jeu vidéo.</p>
+                                  </div>
+                                  <div class="item">
+                                    <form >
+                                      <a  href="https://www.technicolorcreative.com/fr/">
+                                        <input class="bouton" type="button" value="En savoir plus">
+                                      </a>
+                                    </form>
+                                  </div>
                               </div>
+                          </div>
                         </div>
-                       
-                  
+                          
+                  </div>
+
+              <input class="slide-input" id="slide-dot-2" type="radio" name="slides">
+              <div class="slide-img">
+                  <div class="contour container-flex flex-wrap" >
+                      <div class="container-flex-grow-1">
+                          <img class="logo" src="../technicolor-main/data/img/partenaires/connected home.jpg">
                       </div>
+                      <div class="container-flex-grow-2">
+                          <div class="texte" style="display: block; justify-content: space-between;">
+                              <div class="item">
+                                <h1>Connected Home</h1>
+                              </div>
+                              <div class="item">
+                                <p>Connected Home est la division de Technicolor spécialisée dans la conception et la fabrication de modems haut débit et de box Android TV. 
+                                  En septembre 2020, Technicolor détient la plus grande part de marché (en dehors de la Chine) dans le domaine des modems haut débit.</p>
+                              </div>
+                              <div class="item">
+                                <form >
+                                  <a  href="https://www.technicolor.com/fr/dream/research-innovation/home-experience-projects">
+                                    <input class="bouton" type="button" value="En savoir plus">
+                                  </a>
+                                </form>
+                              </div>
+                            </div>
+                      </div>
+                    
+                
+                    </div>
+                      
+              </div>
+
+              <input class="slide-input" id="slide-dot-3" type="radio" name="slides">
+              <div class="slide-img">
+                  <div class="contour container-flex flex-wrap" >
+                      <div class="container-flex-grow-1">
+                          <img class="logo" src="https://variety.com/wp-content/uploads/2013/09/technicolor-logo.jpg">
+                      </div>
+                      <div class="container-flex-grow-2">
+                          <div class="texte" style="display: block; justify-content: space-between;">
+                              <div class="item">
+                                <h1>Home Entertainment Services</h1>
+                              </div>
+                              <div class="item">
+                                <p>Home Entertainment Services fabrique, distribue et gère la chaîne d'approvisionnement de DVD et disques Blu-Ray pour les studios de cinéma américains et l'industrie du CD et des jeux vidéo. 
+                                  En août 2021, la division annonce sa diversification en dehors de l'industrie des médias et du divertissement, se lançant dans la conception et la fabrication de composants destinés aux équipements médicaux et à l'industrie de la santé.</p>
+                              </div>
+                              <div class="item">
+                                <form >
+                                  <a  href="https://www.technicolor.com/distribute/supply-chain-solutions/case-studies/home-entertainment">
+                                    <input class="bouton" type="button" value="En savoir plus">
+                                  </a>
+                                </form>                              
+                              </div>
+                            </div>
+                      </div>
+                    
+                
+                    </div>
+                      
+              </div>
+
+              <input class="slide-input" id="slide-dot-4" type="radio" name="slides" checked>
+                  <div class="slide-img">
+                      <div class="contour container-flex flex-wrap" >
+                          <div class="container-flex-grow-1">
+                              <img class="logo" src="../technicolor-main/data/img/partenaires/trademark licensing.jpg">
+                          </div>
+                          <div class="container-flex-grow-2">
+                              <div class="texte" style="display: block; justify-content: space-between;">
+                                  <div class="item">
+                                    <h1>Trademark Licensing</h1>
+                                  </div>
+                                  <div class="item">
+                                    <p>La division Trademark Licensing gère les droits de marques détenues par le groupe, telles que RCA et Thomson.</p>
+                                  </div>
+                                  <div class="item">
+                                    <form >
+                                      <a  href="https://www.technicolor.com/license">
+                                        <input class="bouton" type="button" value="En savoir plus">
+                                      </a>
+                                    </form>                                 
+                                   </div>
+                                </div>
+                          </div>
                         
-                </div>
+                    
+                        </div>
+                          
+                  </div>
+          </div>
+        </div> 
+
+
+
+        <div class="mySlides">   
+          <div class="slider-container">
+              <div class="menu">
+                  <label for="slide-dot-5"></label>
+                  <label for="slide-dot-6"></label>
+                  <label for="slide-dot-7"></label>
+                  <label for="slide-dot-8"></label>
+              </div>
+
+              <input class="slide-input" id="slide-dot-5" type="radio" name="slides" checked>
+                  <div class="slide-img">
+                      <div class="contour container-flex flex-wrap" >
+                          <div class="container-flex-grow-1">
+                              <img class="logo" src="../technicolor-main/data/img/partenaires/CFDT.png">
+                          </div>
+                          <div class="container-flex-grow-2">
+                              <div class="texte" style="display: block; justify-content: center;">
+                                  <div class="item">
+                                    <h1>CFDT</h1>
+                                  </div>
+                                  <div class="item">
+                                    <p>La Confédération française démocratique du travail (CFDT) est une confédération interprofessionnelle réformiste de syndicats français de salariés.
+                                      Elle est le second syndicat français par le nombre de syndiqués (610 144 revendiqués en 2021) après la CGT. En 2018, elle devient la première organisation syndicale en matière d'audience électorale en agrégeant les résultats aux élections professionnelles dans la fonction publique et dans le secteur privé.</p>
+                                  </div>
+                                  <div class="item">
+                                    <form >
+                                      <a  href="https://fr.wikipedia.org/wiki/Confédération_française_démocratique_du_travail">
+                                        <input class="bouton" type="button" value="En savoir plus">
+                                      </a>
+                                    </form> 
+                                  </div>
+                              </div>
+                          </div>
+                        </div>
+                          
+                  </div>
+
+              <input class="slide-input" id="slide-dot-6" type="radio" name="slides">
+              <div class="slide-img">
+                  <div class="contour container-flex flex-wrap" >
+                      <div class="container-flex-grow-1">
+                          <img class="logo" src="../technicolor-main/data/img/partenaires/CFE-CGC.png">
+                      </div>
+                      <div class="container-flex-grow-2">
+                          <div class="texte" style="display: block; justify-content: space-between;">
+                              <div class="item">
+                                <h1>CFE-CGC</h1>
+                              </div>
+                              <div class="item">
+                                <p>La Confédération française de l'encadrement - Confédération générale des cadres (CFE-CGC) est un syndicat français de salariés fondé le 15 octobre 1944 sous le nom de Confédération générale des cadres (CGC), qui présente la caractéristique de défendre les intérêts d'une catégorie professionnelle spécifique, l'encadrement. Cette spécificité en fait un syndicat catégoriel ouvert aux cadres, ingénieurs, agents de maîtrise et forces de ventes tant dans le secteur privé que public.</p>
+                              </div>
+                              <div class="item">
+                                <form >
+                                  <a  href="https://fr.wikipedia.org/wiki/Confédération_française_de_l%27encadrement_-_Confédération_générale_des_cadres">
+                                    <input class="bouton" type="button" value="En savoir plus">
+                                  </a>
+                                </form> 
+                              </div>
+                            </div>
+                      </div>
+                    
+                
+                    </div>
+                      
+              </div>
+
+              <input class="slide-input" id="slide-dot-7" type="radio" name="slides">
+              <div class="slide-img">
+                  <div class="contour container-flex flex-wrap" >
+                      <div class="container-flex-grow-1">
+                          <img class="logo" src="../technicolor-main/data/img/partenaires/SUD industrie.png">
+                      </div>
+                      <div class="container-flex-grow-2">
+                          <div class="texte" style="display: block; justify-content: space-between;">
+                              <div class="item">
+                                <h1>SUD Industrie</h1>
+                              </div>
+                              <div class="item">
+                                <p>Créée officiellement en 2006, l'Union syndicale Solidaires industrie est la continuité "de la coordination nationale solidaires industrie et métallurgie", créée à Paris le 25 avril 2001. Elle porte le nom d'Union Fédérale SUD industrie depuis 2020.
+
+                                  L'Union Fédérale SUD industrie est membre de l'Union syndicale Solidaires et œuvre dans les secteurs de l'industrie de manière large : Métallurgie, Agro-Alimentaire, Papeterie, Automobile, Logistique, Bâtiment..</p>
+                              </div>
+                              <div class="item">
+                                <form >
+                                  <a  href="https://everybodywiki.com/SUD_Industrie">
+                                    <input class="bouton" type="button" value="En savoir plus">
+                                  </a>
+                                </form> 
+                              </div>
+                            </div>
+                      </div>
+                    
+                
+                    </div>
+                      
+              </div>
+
+              <input class="slide-input" id="slide-dot-8" type="radio" name="slides" checked>
+                  <div class="slide-img">
+                      <div class="contour container-flex flex-wrap" >
+                          <div class="container-flex-grow-1">
+                              <img class="logo" src="../technicolor-main/data/img/partenaires/UNSA.png">
+                          </div>
+                          <div class="container-flex-grow-2">
+                              <div class="texte" style="display: block; justify-content: space-between;">
+                                  <div class="item">
+                                    <h1>UNSA</h1>
+                                  </div>
+                                  <div class="item">
+                                    <p>L'UNSA a été fondée par cinq organisations syndicales non confédérées. Elle regroupe des organisations jusque-là non affiliées de manière interprofessionnelle, un certain nombre d'entre elles, comme la Fédération de l'Éducation nationale (FEN), étant passées à l'autonomie en 1948 par refus de la scission au sein de la CGT qui avait abouti à la création de Force ouvrière. En octobre 1992, la FEN exclut deux composantes importantes, le Syndicat national des enseignements de second degré (SNES) et le Syndicat national de l'éducation physique (SNEP). Ce qui subsiste de la FEN se rapproche alors d'un Groupe des 10, dix organisations syndicales autonomes non-confédérées qui se sont alliés un moment à SUD, mais veulent s'en séparer étant critiques par rapport à une ligne qu'elles jugent trop contestataire.</p>
+                                  </div>
+                                  <div class="item">
+                                    <form >
+                                      <a  href="https://fr.wikipedia.org/wiki/Union_nationale_des_syndicats_autonomes">
+                                        <input class="bouton" type="button" value="En savoir plus">
+                                      </a>
+                                    </form> 
+                                  </div>
+                                </div>
+                          </div>
+                        
+                    
+                        </div>
+                          
+                  </div>
+          </div>
         </div>
     </main>
     
