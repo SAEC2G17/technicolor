@@ -115,7 +115,7 @@ __CSS__
 - style_index.css (BERKROUBER Benjamin)
 ![](https://geps.dev/progress/90)
 - style_prix.css (QUAILE Fyléas)
-![](https://geps.dev/progress/10)
+![](https://geps.dev/progress/100)
 - style_projet.css (TASKIN Semih)
 ![](https://geps.dev/progress/10)
 - style_partenaires.css (KUZZNIACK Cécile)
