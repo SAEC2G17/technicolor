@@ -39,11 +39,11 @@ Les zonings sont disponible ci dessous :
 
 ### Validation personnelles
 
-- ✅![Validation Index](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_index.pdf) Fait par Berkrouber Benjamin
-- ✅![Validation Prix](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_prix.pdf) Fait par Quaile Fyléas
-- ✅![Validation Projet](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_projets.pdf) Fait par Taskin Semih
-- ✅![Validation Partenaire](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_partenaires.pdf) Fait par Kuzniack Cécile
-- ✅![Validation Services](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_services.pdf) Fait par Wittling Louis
+- ✅![Validation Index](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_index_benjamin_berkrouber.pdf) Fait par Berkrouber Benjamin
+- ✅![Validation Prix](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_prix_fyleas_quaile.pdf) Fait par Quaile Fyléas
+- ✅![Validation Projet](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_projets_semih_taskin.pdf) Fait par Taskin Semih
+- ✅![Validation Partenaire](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_partenaires_cecile_kuzniack.pdf) Fait par Kuzniack Cécile
+- ✅![Validation Services](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_services_louis_wittling.pdf) Fait par Wittling Louis
 
 ## Economie et Documents Numériques
 
