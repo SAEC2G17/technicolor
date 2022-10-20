@@ -39,6 +39,9 @@ Les zonings sont disponible ci dessous :
 - ✅![Validation Partenaire](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_partenaires.pdf)
 - ✅![Validation Services](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_services.pdf)
 
+## Economie et Documents Numériques
+
+-✅[Rapport economique]
 
 ## Avancememnt : 
 
