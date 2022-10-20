@@ -36,12 +36,12 @@ Les zonings sont disponible si dessous :
 
 __HTML__
 - index.html (BERKROUBER Benjamin)
-  * header ![](https://geps.dev/progress/80)
+  * header ![](https://geps.dev/progress/100)
     * ✅ Logo
     * ✅ Video 
     * ✅ Menu de navigation 
     * ❌ Responsive 
-  * main ![](https://geps.dev/progress/50)
+  * main ![](https://geps.dev/progress/100)
     * ✅ Profil PDG
     * ❌ Slider Historique
   * footer ![](https://geps.dev/progress/100)
@@ -51,7 +51,7 @@ __HTML__
     * ✅ Liens Entreprise
 
 - prix.html (QUAILE Fyléas)
-  * header ![](https://geps.dev/progress/80)
+  * header ![](https://geps.dev/progress/100)
     * ✅ Logo
     * ✅ Video 
     * ✅ Menu de navigation 
@@ -65,12 +65,12 @@ __HTML__
     * ✅ Liens Entreprise
 
 - projet.html (TASKIN Semih)
-  * header ![](https://geps.dev/progress/80)
+  * header ![](https://geps.dev/progress/100)
     * ✅ Logo
     * ✅ Video 
     * ✅ Menu de navigation 
     * ❌ Responsive 
-  * main ![](https://geps.dev/progress/50)
+  * main ![](https://geps.dev/progress/100)
     * 
   * footer ![](https://geps.dev/progress/100)
     * ✅ Personne de la SAE
@@ -79,12 +79,12 @@ __HTML__
     * ✅ Liens Entreprise
 
 - partenaire.html (KUZZNIACK Cécile)
-  * header ![](https://geps.dev/progress/80)
+  * header ![](https://geps.dev/progress/100)
     * ✅ Logo
     * ✅ Video 
     * ✅ Menu de navigation 
     * ❌ Responsive 
-  * main ![](https://geps.dev/progress/50)
+  * main ![](https://geps.dev/progress/100)
     * 
   * footer ![](https://geps.dev/progress/100)
     * ✅ Personne de la SAE
@@ -93,7 +93,7 @@ __HTML__
     * ✅ Liens Entreprise
   
   - services.html (WITTLING Louis)
-  * header ![](https://geps.dev/progress/80)
+  * header ![](https://geps.dev/progress/100)
     * ✅ Logo
     * ✅ Video 
     * ✅ Menu de navigation 
@@ -109,17 +109,17 @@ __HTML__
 __CSS__ 
 
 - style_header.css (BERKROUBER Benjamin)
-![](https://geps.dev/progress/90)
+![](https://geps.dev/progress/100)
 - style_footer.css (BERKROUBER Benjamin)
 ![](https://geps.dev/progress/100)
 - style_index.css (BERKROUBER Benjamin)
-![](https://geps.dev/progress/90)
+![](https://geps.dev/progress/100)
 - style_prix.css (QUAILE Fyléas)
 ![](https://geps.dev/progress/100)
 - style_projet.css (TASKIN Semih)
-![](https://geps.dev/progress/10)
+![](https://geps.dev/progress/100)
 - style_partenaires.css (KUZZNIACK Cécile)
-![](https://geps.dev/progress/10)
+![](https://geps.dev/progress/100)
 - style_services.css (WITTLING Louis)
 ![](https://geps.dev/progress/100)
 
