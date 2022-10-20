@@ -98,7 +98,7 @@ __HTML__
     * ✅ Video 
     * ✅ Menu de navigation 
     * ❌ Responsive 
-  * main ![](https://geps.dev/progress/50)
+  * main ![](https://geps.dev/progress/100)
     * 
   * footer ![](https://geps.dev/progress/100)
     * ✅ Personne de la SAE
@@ -121,7 +121,7 @@ __CSS__
 - style_partenaires.css (KUZZNIACK Cécile)
 ![](https://geps.dev/progress/10)
 - style_services.css (WITTLING Louis)
-![](https://geps.dev/progress/10)
+![](https://geps.dev/progress/100)
 
 __JS__
 - app.js (BERKROUBER Benjamin)
