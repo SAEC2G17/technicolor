@@ -93,18 +93,18 @@ __HTML__
     * ✅ Liens Entreprise
   
  - services.html (WITTLING Louis)
-  * header ![](https://geps.dev/progress/100)
-    * ✅ Logo
-    * ✅ Video 
-    * ✅ Menu de navigation 
-    * ❌ Responsive 
-  * main ![](https://geps.dev/progress/100)
-    * 
-  * footer ![](https://geps.dev/progress/100)
-    * ✅ Personne de la SAE
-    * ✅ Site map
-    * ❌ Catégorie 4
-    * ✅ Liens Entreprise
+   * header ![](https://geps.dev/progress/100)
+     * ✅ Logo
+     * ✅ Video 
+     * ✅ Menu de navigation 
+     * ❌ Responsive 
+   * main ![](https://geps.dev/progress/100)
+     * 
+   * footer ![](https://geps.dev/progress/100)
+     * ✅ Personne de la SAE
+     * ✅ Site map
+     * ❌ Catégorie 4
+     * ✅ Liens Entreprise
 
 __CSS__ 
 
