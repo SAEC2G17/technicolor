@@ -34,10 +34,10 @@ Les zonings sont disponible ci dessous :
 ## Validation W3C :
 
 - ✅![Validation Index]
-- ✅![Validation Prix][validation_prix.pdf](https://github.com/SAEC2G17/technicolor/files/9832221/validation_prix.pdf)
-- ✅![Validation Projet][validation_projets.pdf](https://github.com/SAEC2G17/technicolor/files/9832219/validation_projets.pdf)
-- ✅![Validation Partenaire][validation_partenaires.pdf](https://github.com/SAEC2G17/technicolor/files/9832212/validation_partenaires.pdf)
-- ✅![Validation Services][validation_services.pdf](https://github.com/SAEC2G17/technicolor/files/9832217/validation_services.pdf)
+- ✅![Validation Prix](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_prix.pdf)
+- ✅![Validation Projet](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_projets.pdf)
+- ✅![Validation Partenaire](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_partenaires.pdf)
+- ✅![Validation Services](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_services.pdf)
 
 
 ## Avancememnt : 
