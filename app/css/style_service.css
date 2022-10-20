@@ -1,19 +1,18 @@
-body
-{
-    background-color:navy;
+body {
+    background-color: #faddc4;
 }
 
 main section h3 {
     text-align: left;
     margin: 10px 10px 10px;
-    color: beige;
+    color: #faddc4;
     float: left;
 }
 
 main section h2 {
     text-align: left;
     margin: 10px 10px 10px;
-    color: beige;
+    color: #faddc4;
     float: left;
 }
 
@@ -46,7 +45,7 @@ main section fieldset.txt1
     margin: 10px 5px 10px;
     float:left;
     width: 60%;
-    background: cadetblue;
+    background: #53adf4;
 }
 
 
@@ -80,7 +79,7 @@ main section fieldset.txt2
     margin: 10px 5px 10px;
     float:left;
     width: 0%;
-    background: cadetblue;
+    background: #53adf4;
 }
 
 
@@ -124,7 +123,7 @@ main section fieldset.txt3
     margin: 10px 5px 10px;
     float:left;
     width: 60%;
-    background: cadetblue;
+    background: #53adf4;
 }
 
 
@@ -162,7 +161,7 @@ main section fieldset.txt4
     margin: 10px 20px 10px;
     float:left;
     width: 60%;
-    background: cadetblue;
+    background: #53adf4;
 }
 
 button {
@@ -171,5 +170,5 @@ button {
     height: 80px;
     margin: auto;
     border-radius: 15px;
-    background-color:lightseagreen;
+    background-color:#e2a45e;
 }
