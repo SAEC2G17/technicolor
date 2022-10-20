@@ -33,7 +33,9 @@ Les zonings sont disponible ci dessous :
 
 ## Validation W3C :
 
-- ✅![Validation Site WEB](https://github.com/SAEC2G17/technicolor/blob/main/Validation%20W3C/validation_site.pdf) Fait par le groupe G17
+### Validation globale 
+
+- ✅![Validation Site WEB](https://github.com/SAEC2G17/technicolor/blob/main/Validation%20W3C/validation_site%20.pdf) Fait par le groupe G17
 
 ### Validation personnelles
 
