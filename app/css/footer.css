@@ -123,7 +123,14 @@ footer ul
 	}
 }
 
-footer .footer-col ul li p.focus-footer
+footer .footer-col ul li a#focus-footer
+{
+	color: #faddc4;
+	border-left: #faddc4 solid 1px;
+	padding: 10px;
+}
+
+footer .footer-col ul li a#focus-footer2
 {
 	color: #faddc4;
 	border-left: #faddc4 solid 1px;
