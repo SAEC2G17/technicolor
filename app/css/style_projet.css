@@ -47,10 +47,14 @@ video{
     float: left;
 }
 
-p{
+main p{
+    margin-left: 20px;
     text-align: right;
     color: aliceblue;
-    text-align: center;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 30px;
+    border-left: white solid 3px
     
 
 
@@ -97,16 +101,24 @@ h2{
 
 main section fieldset.projet1 {
     background-color: #e2a45e;
+    border: none;
+
 }
 
 main section fieldset.projet2 {
     background-color: #e2a45e;
+    border: none;
+
 }
 
 main section fieldset.projet3 {
     background-color: #e2a45e;
+    border: none;
+
 }
 
 main section fieldset.projet4 {
     background-color: #e2a45e;
+    border: none;
 }
+
