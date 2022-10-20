@@ -18,7 +18,7 @@ on été données dans le cadre de notre SAE.05.06
 
 **Terminé**
 
-Les zonings sont disponible si dessous : 
+Les zonings sont disponible ci dessous : 
 - ✅![Zoning Index ](zoning/Zoning_index.png)
 
 **Terminé**
@@ -31,6 +31,13 @@ Les zonings sont disponible si dessous :
 ## Ecran prototype du site : 
 - ✅![Prototype Index ](zoning/Capture_index.png)
 
+## Validation W3C :
+
+- ✅![Validation Index]
+- ✅![Validation Prix](Validation W3C/validation_prix.pdf)
+- ✅![Validation Projet](Validation W3C/validation_projets.pdf)
+- ✅![Validation Partenaire](Validation W3C/validation_partenaires.pdf)
+- ✅![Validation Services](Validation W3C/validation_services.pdf)
 
 ## Avancememnt : 
 
