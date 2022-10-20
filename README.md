@@ -33,11 +33,11 @@ Les zonings sont disponible ci dessous :
 
 ## Validation W3C :
 
-- ✅![Validation Index]
-- ✅![Validation Prix](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_prix.pdf)
-- ✅![Validation Projet](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_projets.pdf)
-- ✅![Validation Partenaire](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_partenaires.pdf)
-- ✅![Validation Services](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_services.pdf)
+- ✅![Validation Index] Fait par Berkrouber Benjamin
+- ✅![Validation Prix](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_prix.pdf) Fait par Quaile Fyléas
+- ✅![Validation Projet](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_projets.pdf) Fait par Taskin Semih
+- ✅![Validation Partenaire](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_partenaires.pdf) Fait par Kuzniack Cécile
+- ✅![Validation Services](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_services.pdf) Fait par Wittling Louis
 
 ## Economie et Documents Numériques
 
