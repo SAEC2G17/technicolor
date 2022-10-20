@@ -40,7 +40,13 @@ main h1{
   font-family: 'Poppins';
   font-size: 36px;
   color: white;
-  
+}
+main h3{
+  text-align: center;
+  padding-top: 50px;
+  font-family: 'Poppins';
+  font-size: 36px;
+  color: black; 
 }
 main p{
   text-align: center;
