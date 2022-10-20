@@ -10,7 +10,7 @@ body
 	line-height: 1.5;
 	font-family: 'Poppins', sans-serif;
 	/* background-color: #090E6A; */
-    background-image: url('data/back.jpg');
+    background: #faddc4;
 }
 
 html, body	
@@ -241,30 +241,4 @@ div.Primary-Informations ul li a:hover
     100% { transform: translateY(40px); opacity: 0;}
 }
 
-@media only screen and (min-width: 800px) and (max-width: 966px)
-{
-    div.nav
-    {
-        display: block;
-        background-color: red;
-    }
-}
 
-@media only screen (min-width: 321px) and (max-width: 799px)
-{
-    div.nav
-    {
-        display: block;
-        
-    }
-    
-}
-
-@media only screen and (max-width: 320px)
-{
-    div.nav
-    {
-        display: block;
-        background-color: blue;
-    }
-}
