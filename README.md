@@ -92,7 +92,7 @@ __HTML__
     * ❌ Catégorie 4
     * ✅ Liens Entreprise
   
-  - services.html (WITTLING Louis)
+ - services.html (WITTLING Louis)
   * header ![](https://geps.dev/progress/100)
     * ✅ Logo
     * ✅ Video 
