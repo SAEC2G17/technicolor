@@ -56,7 +56,7 @@ __HTML__
     * ✅ Video 
     * ✅ Menu de navigation 
     * ❌ Responsive 
-  * main ![](https://geps.dev/progress/50)
+  * main ![](https://geps.dev/progress/100)
     * 
   * footer ![](https://geps.dev/progress/100)
     * ✅ Personne de la SAE
