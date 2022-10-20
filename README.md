@@ -33,11 +33,6 @@ Les zonings sont disponible ci dessous :
 
 ## Validation W3C :
 
-- ✅![Validation Index]
-- ✅![Validation Prix](Validation W3C/validation_prix.pdf)
-- ✅![Validation Projet](Validation W3C/validation_projets.pdf)
-- ✅![Validation Partenaire](Validation W3C/validation_partenaires.pdf)
-- ✅![Validation Services](Validation W3C/validation_services.pdf)
 
 ## Avancememnt : 
 
