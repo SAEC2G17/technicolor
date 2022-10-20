@@ -1,6 +1,7 @@
 main section div.bio
 {
-    background-color: rgb(27, 16, 81);
+    background-color: 
+    #faddc4;
     width: 75%;
     height: 600px;
     margin: auto;
@@ -92,4 +93,20 @@ h2{
     align-items: center;
     justify-content: center;
     margin-top: 100px;
+}
+
+main section fieldset.projet1 {
+    background-color: #e2a45e;
+}
+
+main section fieldset.projet2 {
+    background-color: #e2a45e;
+}
+
+main section fieldset.projet3 {
+    background-color: #e2a45e;
+}
+
+main section fieldset.projet4 {
+    background-color: #e2a45e;
 }
