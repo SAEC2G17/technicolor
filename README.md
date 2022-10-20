@@ -33,7 +33,7 @@ Les zonings sont disponible ci dessous :
 
 ## Validation W3C :
 
-- ✅![Validation Index] Fait par Berkrouber Benjamin
+- ✅![Validation Index](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_index.pdf) Fait par Berkrouber Benjamin
 - ✅![Validation Prix](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_prix.pdf) Fait par Quaile Fyléas
 - ✅![Validation Projet](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_projets.pdf) Fait par Taskin Semih
 - ✅![Validation Partenaire](https://github.com/SAEC2G17/technicolor/tree/main/Validation%20W3C/validation_partenaires.pdf) Fait par Kuzniack Cécile
