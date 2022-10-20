@@ -51,14 +51,13 @@ __HTML__
     * ✅ Logo
     * ✅ Video 
     * ✅ Menu de navigation 
-    * ❌ Responsive 
   * main ![](https://geps.dev/progress/100)
     * ✅ Profil PDG
-    * ❌ Slider Historique
+    * ✅ Slider Historique
   * footer ![](https://geps.dev/progress/100)
     * ✅ Personne de la SAE
     * ✅ Site map
-    * ❌ Catégorie 4
+    * ✅ Catégorie 4
     * ✅ Liens Entreprise
 
 - prix.html (QUAILE Fyléas)
@@ -66,13 +65,12 @@ __HTML__
     * ✅ Logo
     * ✅ Video 
     * ✅ Menu de navigation 
-    * ❌ Responsive 
   * main ![](https://geps.dev/progress/100)
     * 
   * footer ![](https://geps.dev/progress/100)
     * ✅ Personne de la SAE
     * ✅ Site map
-    * ❌ Catégorie 4
+    * ✅ Catégorie 4
     * ✅ Liens Entreprise
 
 - projet.html (TASKIN Semih)
@@ -80,13 +78,12 @@ __HTML__
     * ✅ Logo
     * ✅ Video 
     * ✅ Menu de navigation 
-    * ❌ Responsive 
   * main ![](https://geps.dev/progress/100)
     * 
   * footer ![](https://geps.dev/progress/100)
     * ✅ Personne de la SAE
     * ✅ Site map
-    * ❌ Catégorie 4
+    * ✅ Catégorie 4
     * ✅ Liens Entreprise
 
 - partenaire.html (KUZZNIACK Cécile)
@@ -94,13 +91,12 @@ __HTML__
     * ✅ Logo
     * ✅ Video 
     * ✅ Menu de navigation 
-    * ❌ Responsive 
   * main ![](https://geps.dev/progress/100)
     * 
   * footer ![](https://geps.dev/progress/100)
     * ✅ Personne de la SAE
     * ✅ Site map
-    * ❌ Catégorie 4
+    * ✅ Catégorie 4
     * ✅ Liens Entreprise
   
  - services.html (WITTLING Louis)
@@ -108,13 +104,12 @@ __HTML__
      * ✅ Logo
      * ✅ Video 
      * ✅ Menu de navigation 
-     * ❌ Responsive 
    * main ![](https://geps.dev/progress/100)
      * 
    * footer ![](https://geps.dev/progress/100)
      * ✅ Personne de la SAE
      * ✅ Site map
-     * ❌ Catégorie 4
+     * ✅ Catégorie 4
      * ✅ Liens Entreprise
 
 __CSS__ 
